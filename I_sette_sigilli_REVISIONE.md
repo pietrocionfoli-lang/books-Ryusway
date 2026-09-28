@@ -9,14 +9,14 @@ Il PDF originale (`I_sette_sigilli_definitivo.pdf`) non è stato toccato.
 
 ---
 
-## ⚠️ Cambia il numero di pagine: 400 → 367
+## Numero di pagine: 400 → 370
 
 Va rifatto il **dorso della copertina KDP**.
 Spessore del dorso calcolato con i coefficienti KDP:
-- carta bianca: 367 × 0,002252" = **0,83" ≈ 2,10 cm** (prima era 2,29 cm)
-- carta crema: 367 × 0,0025" = **0,92" ≈ 2,33 cm** (prima era 2,54 cm)
+- carta bianca: 370 × 0,002252" = **0,83" ≈ 2,12 cm** (prima era 2,29 cm)
+- carta crema: 370 × 0,0025" = **0,93" ≈ 2,35 cm** (prima era 2,54 cm)
 
-Il calcolatore copertina di KDP va comunque rifatto con 367 pagine.
+
 
 ---
 
@@ -25,13 +25,12 @@ Il calcolatore copertina di KDP va comunque rifatto con 367 pagine.
 Problemi trovati nel PDF originale:
 - **Corpo del testo a 8,7 pt.** Era una pagina A4 rimpicciolita a 6×9, troppo piccola per un libro stampato.
 - **Font non incorporati** (Times New Roman): KDP rifiuta i PDF con font non incorporati.
-- 3 pagine bianche **numerate** prima del frontespizio.
 - Molti finali di capitolo erano in un altro font (Liberation Serif), residuo di correzioni precedenti.
 - Titoli dei capitoli tra virgolette dritte ("…"), apostrofi dritti (').
 
 Nuova impaginazione:
 - 6×9", margini a norma KDP (interno 2 cm), corpo EB Garamond 11,5 pt, giustificato con sillabazione italiana, niente righe orfane o vedove.
-- Frontespizio, **Sommario** generato automaticamente (ogni voce controllata: apre la pagina giusta), Introduzione e Capitolo 1 su pagina dispari, ogni capitolo su pagina nuova con "CAPITOLO N" e titolo sotto.
+- 3 pagine bianche iniziali come nell'originale, poi frontespizio (p. 4), **Sommario** generato automaticamente (ogni voce controllata: apre la pagina giusta), Introduzione e Capitolo 1 su pagina dispari, ogni capitolo su pagina nuova con "CAPITOLO N" e titolo sotto.
 - Le pagine del **quaderno di Ian** sono in corsivo rientrato. Prima non si distinguevano dalla narrazione.
 - Apostrofi tipografici (’), "…" al posto di "...".
 
@@ -116,9 +115,9 @@ Sono diffusi in tutto il libro. Li correggo se me lo chiedi.
 
 ## 8. Controlli sul PDF finale
 - ✅ 50 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→49 + Epilogo
-- ✅ numeri di pagina corretti su tutte le pagine di testo; nessun numero sulle pagine bianche (2 e 6)
+- ✅ numeri di pagina corretti su tutte le pagine di testo; nessun numero sulle pagine bianche (1–3, 5, 9)
 - ✅ nessun titolo, frase introduttiva del quaderno ("Scrisse:") o riga isolata in fondo pagina; nessun capitolo che finisce con una pagina di 1–3 righe
 - ✅ confronto parola per parola tra testo corretto e PDF: nessuna perdita
 - ✅ nessun carattere strano o simbolo mancante; 2 soli font (EB Garamond regolare e corsivo), entrambi incorporati
 - ✅ nessun residuo degli errori corretti
-- ✅ ODT riconvertito → PDF identico (367 pagine, 0 differenze)
+- ✅ ODT riconvertito → PDF identico (370 pagine, 0 differenze)
