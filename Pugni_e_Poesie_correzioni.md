@@ -1,6 +1,6 @@
 # Pugni e Poesie — elenco completo delle correzioni
 
-277 interventi, capitolo per capitolo. Il numero tra parentesi quadre è il paragrafo del testo originale. "⏎" indica un a capo inserito (battute di due personaggi separate).
+283 interventi, capitolo per capitolo. Il numero tra parentesi quadre è il paragrafo del testo originale. "⏎" indica un a capo inserito (battute di due personaggi separate).
 
 ## Capitolo 1: La Palestra
 
@@ -93,6 +93,8 @@
   _frase contorta_
 - **[1347] ripetizione** — «Oliver urlò così forte che pensò di essersi rotto la gola.» → «Oliver urlò fino a sentire la gola in fiamme.»  
   _frase identica alla vittoria del cap. 9 [936]_
+- **[1397] tic** — «Non dolore estremo, ma abbastanza.» → «Non un dolore insopportabile, ma di quelli che si sentono.»  
+  _vedi sopra_
 - **[1426] formattazione** — «"Sangue su tela bianca Lei danza con violenza Ogni pugno dice ti amo Ogni schivata dice rimani Il mondo vede gladiatrice Io vedo bambina con peluche Donna che piange dopo film tristi Guerriera che ha paura del buio Lei è tutto Contraddizione vivente E io sono innamorato Di ogni versione"» → «"Sangue su tela bianca / Lei danza con violenza / Ogni pugno dice ti amo / Ogni schivata dice rimani / Il mondo vede gladiatrice / Io vedo bambina con peluche / Donna che piange dopo film tristi / Guerriera che ha paura del buio / Lei è tutto / Contraddizione vivente / E io sono innamorato / Di ogni versione"»  
   _la poesia era stampata tutta su una riga, senza a capo tra i versi_
 - **[1433] refuso** — «Un giorno. Forse. .» → «Un giorno. Forse.»  
@@ -385,6 +387,8 @@
   _Oliver parte il 1° gennaio e torna il 21_
 - **[5723] formattazione** — chat: un messaggio per riga (prima i messaggi erano stampati tutti di seguito)
 - **[5750] formattazione** — chat: un messaggio per riga (prima i messaggi erano stampati tutti di seguito)
+- **[5761] tic** — «Ma non abbastanza.» → «Ma non del tutto.»  
+  _'abbastanza' come chiusa secca_
 - **[5763] logica** — «Torneo Nazionale UK — eliminazione diretta, quattro round in tre giorni.» → «Torneo Nazionale UK — eliminazione diretta, quattro incontri in quattro giorni.»  
   _primo turno, quarti, semifinale e finale 'il giorno dopo'_
 - **[5770] grammatica** — «"Goditi. Non sarà sempre così facile."» → «"Goditela. Non sarà sempre così facile."»
@@ -393,6 +397,8 @@
 - **[5807] lessico** — «Esaurente.» → «Estenuante.»
 - **[5816] logica** — «Quattro gennaio. Manchester Arena. La finale.» → «Cinque gennaio. Manchester Arena. La finale.»  
   _il torneo inizia il 2 gennaio, la semifinale è al terzo giorno e la finale 'il giorno dopo'_
+- **[5832] tic** — «Impercettibile. Ma abbastanza.» → «Impercettibile. Ma c'era.»  
+  _vedi sopra_
 - **[5850] logica** — «Le 10:00 a Chicago, dove Oliver si trovava.» → «Le 10:00 a Boston, dove Oliver si trovava.»  
   _al quinto giorno del tour Oliver è a Boston (Chicago è ai giorni 6-10, e con un'ora di fuso in più)_
 - **[5881] refuso** — «L'ammirattrice letteraria!» → «L'ammiratrice letteraria!»
@@ -517,6 +523,8 @@
 - **[6876] sintassi** — «che Oliver aveva scoperto tre mesi prima e non gli aveva mai detto di fare» → «che Oliver aveva scoperto tre mesi prima e di cui non gli aveva mai parlato»
 - **[6883] coerenza** — «era rimasto a Londra con il padre di Tommy, che aveva accettato con un entusiasmo sospetto per un uomo che diceva di non amare i cani» → «era rimasto a Londra con la madre di Tommy, che aveva accettato con un entusiasmo sospetto per una donna che diceva di non amare i cani»  
   _il padre di Tommy è morto di cancro (cap. 22)_
+- **[6897] tic** — «Era abbastanza.» → «A Oliver non serviva altro.»  
+  _'Era abbastanza.' come chiusa a effetto: tre volte negli ultimi tre capitoli_
 - **[6909] logica** — «Alle dieci Brenda bussò alla loro camera.» → «Alle dieci Brenda tornò in camera dalla riunione tattica con Mick.»  
   _Brenda e Oliver dividono la stessa camera_
 - **[6910] logica** — «Oliver aprì.» → «Oliver era ancora sveglio.»  
@@ -534,6 +542,8 @@
   _lo sparring era a Londra (Reinholt 'viene domani')_
 - **[6969] logica** — «Sarah prese il braccio di Oliver» → «Emma prese il braccio di Oliver»  
   _vedi sopra: Emma è accanto a Oliver_
+- **[6975] tic** — «Era abbastanza. Era tutto.» → «Era tutto.»  
+  _vedi sopra_
 - **[6994] coerenza** — «lo stesso di Manchester, stessa posizione» → «lo stesso dello sparring, stessa posizione»  
   _vedi sopra_
 - **[6996] coerenza** — «con la faccia di chi ha cresciuto tre figlie sportive» → «con la faccia di chi ha cresciuto due figlie testarde»  
@@ -570,6 +580,8 @@
   _il primo libro di Oliver ha superato le centomila copie: tremila è una tiratura da esordiente_
 - **[7189] logica** — «Il combattimento era durato ventotto minuti.» → «Il combattimento era durato diciannove minuti.»  
   _cinque round da tre minuti più le pause fanno diciannove minuti_
+- **[7206] tic** — «Era abbastanza.» → «Non serviva dire altro.»  
+  _vedi sopra_
 - **[7262] coerenza** — «Rocky aveva quattro anni» → «Rocky aveva due anni e mezzo»  
   _adottato a nove mesi a febbraio dell'anno di Berlino_
 - **[7264] coerenza** — «la narrativa del golden retriever non addestrabile» → «la narrativa del meticcio non addestrabile»  

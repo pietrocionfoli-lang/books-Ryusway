@@ -115,7 +115,7 @@ Sono diffusi in tutto il libro. Li correggo se me lo chiedi.
 
 ## 8. Controlli sul PDF finale
 - ✅ 50 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→49 + Epilogo
-- ✅ numeri di pagina corretti su tutte le pagine di testo; nessun numero sulle pagine bianche (1–3, 5, 9)
+- ✅ numero di pagina su tutte le 370 pagine (aggiunto anche a pagine bianche, frontespizio e sommario), ognuno corretto
 - ✅ nessun titolo, frase introduttiva del quaderno ("Scrisse:") o riga isolata in fondo pagina; nessun capitolo che finisce con una pagina di 1–3 righe
 - ✅ confronto parola per parola tra testo corretto e PDF: nessuna perdita
 - ✅ nessun carattere strano o simbolo mancante; 2 soli font (EB Garamond regolare e corsivo), entrambi incorporati

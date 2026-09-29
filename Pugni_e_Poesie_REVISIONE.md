@@ -3,7 +3,7 @@
 **File consegnati**
 - `Pugni_e_Poesie_revisionato.pdf`: interno 6×9", font incorporati.
 - `Pugni_e_Poesie_revisionato.odt`: versione modificabile, con i font incorporati. Riconvertito in PDF dà lo stesso identico PDF (controllato pagina per pagina: 0 differenze).
-- `Pugni_e_Poesie_correzioni.md`: tutti i 277 interventi, capitolo per capitolo, con il prima → dopo.
+- `Pugni_e_Poesie_correzioni.md`: tutti i 283 interventi, capitolo per capitolo, con il prima → dopo.
 
 Il PDF originale (`Pugni e Poesie.pdf`) non è stato toccato.
 
@@ -26,7 +26,7 @@ Struttura iniziale come nell'originale:
 - Capitolo 1 a p. 9.
 
 Cosa ho sistemato rispetto all'originale:
-- **Numeri di pagina.** Mancavano del tutto: li ho aggiunti.
+- **Numeri di pagina.** Mancavano del tutto: ora ci sono su tutte le 367 pagine, comprese quelle bianche e il sommario.
 - **Corpo del testo.** Era un A4 rimpicciolito a 8,7 pt, con parti in altri font (per esempio l'elenco delle "regole" del cap. 36 era in Calibri). Ora è tutto uniforme.
 - **Chat di gruppo ed email** (14 blocchi). Erano stampate come un unico paragrafo, con i messaggi uno dopo l'altro sulla stessa riga. Ora c'è un messaggio per riga, con il nome in corsivo.
 - **Poesie.** Cinque poesie erano stampate tutte su una riga, senza a capo, o con i versi separati da "/". Ora sono in versi.
@@ -132,7 +132,7 @@ Li correggo se me lo chiedi.
 | "Cazzo" | 46 |
 | "Esatto / Esattamente" come risposta | 48 |
 | "orgoglioso/a" | 33 |
-| "abbastanza" | 33 |
+| "abbastanza" (i 6 usati come chiusa secca — «Era abbastanza.», «Ma abbastanza.» — sono stati riscritti) | 27 |
 | "crescita / cresciuto" | 27 |
 | «Sempre.» come risposta secca | 25 |
 | "si baciarono" | 20 |
@@ -160,7 +160,7 @@ Li correggo se me lo chiedi.
 
 ## 8. Controlli sul PDF finale
 - ✅ 41 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→41.
-- ✅ Numeri di pagina corretti su tutte le pagine di testo; nessun numero sulle pagine bianche (1–3, 8) e sul sommario.
+- ✅ Numero di pagina su tutte le 367 pagine, ognuno corretto.
 - ✅ Nessun titolo, titoletto "Parte"/"Round"/"Epilogo del Capitolo" o riga con i due punti isolati in fondo pagina.
 - ✅ Nessun capitolo che finisce con una pagina di 1–3 righe. Per quattro capitoli (1, 2, 19, 33) ho stretto leggermente la spaziatura delle lettere, che è invisibile a occhio.
 - ✅ Confronto parola per parola tra testo corretto e PDF: nessuna perdita.
