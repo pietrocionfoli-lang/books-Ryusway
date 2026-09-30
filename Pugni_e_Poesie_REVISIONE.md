@@ -3,11 +3,11 @@
 **File consegnati**
 - `Pugni_e_Poesie_revisionato.pdf`: interno 6×9", font incorporati.
 - `Pugni_e_Poesie_revisionato.odt`: versione modificabile, con i font incorporati. Riconvertito in PDF dà lo stesso identico PDF (controllato pagina per pagina: 0 differenze).
-- `Pugni_e_Poesie_correzioni.md`: tutti i 283 interventi, capitolo per capitolo, con il prima → dopo.
+- `Pugni_e_Poesie_correzioni.md`: tutti i 283 interventi capitolo per capitolo, con il prima → dopo, e in fondo i 240 interventi sui tic stilistici.
 
 Il PDF originale (`Pugni e Poesie.pdf`) non è stato toccato.
 
-**Numero di pagine: 377 → 367.**
+**Numero di pagine: 377 → 367** (invariato dopo la correzione dei tic).
 
 ---
 
@@ -120,30 +120,34 @@ Restano generici ma lontani tra loro, quindi li ho lasciati:
 
 Lasciati come sono: i capp. 1–4 chiudono tutti con "Cristo santo, pensò… / Devo chiamare mia madre", ma è una gag in crescendo voluta ("di nuovo", "per l'ennesima volta").
 
-## 6. Tic stilistici: SEGNALATI, non corretti
-Li correggo se me lo chiedi.
+## 6. Tic stilistici: CORRETTI
+Riscritti uno per uno, variando la frase o togliendola dove era solo riempitivo. L'elenco completo, prima → dopo, è in fondo al file delle correzioni.
 
-| Tic | Occorrenze |
-|---|---|
-| "perfetto/a/i/e" | 82 |
-| "sussurrò" | 73 |
-| "Cristo" (7 "Cristo santo") | 59 |
-| "più forti" (spesso "ne uscirono più forti") | 47 |
-| "Cazzo" | 46 |
-| "Esatto / Esattamente" come risposta | 48 |
-| "orgoglioso/a" | 33 |
-| "abbastanza" (i 6 usati come chiusa secca — «Era abbastanza.», «Ma abbastanza.» — sono stati riscritti) | 27 |
-| "crescita / cresciuto" | 27 |
-| «Sempre.» come risposta secca | 25 |
-| "si baciarono" | 20 |
-| «Soprattutto quando / perché…» come replica | 16 |
-| "occhi lucidi" + "lacrime agli occhi" | 23 |
-| "baby" | 16 |
-| "Alleanza" | 13 |
-| "Come fai sempre a dire la cosa giusta/perfetta?" | 12 |
-| "rise così forte che…" | 12 |
-| "rosso come un peperone" | 6 |
-| "Ti amo. Anche quando…" | 8 |
+| Tic | Prima | Dopo |
+|---|---|---|
+| "perfetto/a/i/e" | 111 | 48 |
+| "sussurrò" | 77 | 40 |
+| "Esatto / Esattamente" | 82 | 50 |
+| "Cristo" | 64 | 36 |
+| "orgoglioso/a" | 37 | 17 |
+| "più forte/i" (e "ne uscirono più forti") | 51 | 41 |
+| "crescita / cresciuto" | 31 | 24 |
+| «Sempre.» come risposta | 24 | 9 |
+| «Soprattutto…» come replica | 17 | 12 |
+| "si baciarono" | 20 | 10 |
+| "occhi lucidi" / "lacrime agli occhi" | 20 | 8 |
+| "rise così forte che…" | 12 | 3 |
+| "Come fai (sempre) a dire la cosa giusta/perfetta?" | 4 | 1 |
+| "rosso come un peperone" | 6 | 2 |
+
+I numeri sono contati su tutto il testo, quindi a volte sono diversi da quelli della prima tabella, che contava solo alcune forme.
+
+Lasciati come sono:
+- **"Cazzo" (55) e "baby" (17)**: sono il modo di parlare di Brenda, fanno parte del personaggio.
+- **"Cristo santo, pensò… Devo chiamare mia madre"** nei capp. 1–4: è la gag in crescendo.
+- **«Ti amo. Anche quando…»**: è il ritornello della coppia. Ho tolto solo le repliche identiche ripetute («Soprattutto quando sei rotta», «Soprattutto quando mi rompi le ossa» comparivano due volte ciascuna).
+- **"Alleanza"**: è il nome del gruppo, non un tic.
+- **"abbastanza"**: le chiuse secche erano già state riscritte nel primo giro.
 
 **Morali in corsivo a fine capitolo.** Tre capitoli (14, 16, 27) chiudono con una terna di massime in corsivo ("Gli ex possono diventare amici…", "Le feste rivelano verità…", "Gli scandali passano…"). Ho corretto solo la grammatica ("L'amore conquista vergogna" → "L'amore vince la vergogna").
 
@@ -160,7 +164,7 @@ Li correggo se me lo chiedi.
 
 ## 8. Controlli sul PDF finale
 - ✅ 41 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→41.
-- ✅ Numero di pagina su tutte le 367 pagine, ognuno corretto.
+- ✅ Numero di pagina su tutte le 367 pagine, ognuno corretto (ricontrollato dopo la correzione dei tic).
 - ✅ Nessun titolo, titoletto "Parte"/"Round"/"Epilogo del Capitolo" o riga con i due punti isolati in fondo pagina.
 - ✅ Nessun capitolo che finisce con una pagina di 1–3 righe. Per quattro capitoli (1, 2, 19, 33) ho stretto leggermente la spaziatura delle lettere, che è invisibile a occhio.
 - ✅ Confronto parola per parola tra testo corretto e PDF: nessuna perdita.

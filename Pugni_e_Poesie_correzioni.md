@@ -1,6 +1,6 @@
 # Pugni e Poesie — elenco completo delle correzioni
 
-283 interventi, capitolo per capitolo. Il numero tra parentesi quadre è il paragrafo del testo originale. "⏎" indica un a capo inserito (battute di due personaggi separate).
+283 interventi, capitolo per capitolo; in fondo, l’elenco dei tic stilistici corretti nel secondo giro. Il numero tra parentesi quadre è il paragrafo del testo originale. "⏎" indica un a capo inserito (battute di due personaggi separate).
 
 ## Capitolo 1: La Palestra
 
@@ -598,3 +598,380 @@
   _vedi sopra_
 - **[7362] residuo** — eliminato: «Per tutti quelli che hanno scelto la persona sbagliata giusta. E per Rocky, che ha rubato la scarpa sbagliata alla persona giusta.»  
   _paragrafo eliminato_
+
+
+# Tic stilistici corretti
+
+Secondo giro, dopo la revisione: 240 interventi. Le formule ripetute sono state riscritte una per una, variando la frase o togliendola dove era solo riempitivo. Tra parentesi il tic.
+
+## Capitolo 2: Caffè e Catastrofi
+
+- *[sussurrò]* **“Ok,” sussurrò.** → **“Ok,” disse piano.**
+
+## Capitolo 3: Peluche e Proposte Indecenti
+
+- *[perfetto]* **Cristo santo, Oliver, sei perfetto.** → **Cristo santo, Oliver, sei unico.**
+- *[sussurrò]* **“No,” sussurrò Oliver,** → **“No,” mormorò Oliver,**
+- *[perfetto]* **“Perfetto. Il coraggio è sopravvalutato comunque.”** → **“Ottimo. Il coraggio è sopravvalutato comunque.”**
+
+## Capitolo 4: Messaggi Misti e Bistecche
+
+- *[Cristo]* **“Cristo, Brenda, dove lo metti** → **“Santo cielo, Brenda, dove lo metti**
+- *[Cristo]* **“Mmm, Cristo. Questo è meglio del sesso.”** → **“Mmm, Dio. Questo è meglio del sesso.”**
+- *[rise così forte che…]* **Brenda rise così forte che sputò un po’ di gelato.** → **Brenda scoppiò a ridere e sputò un po’ di gelato.**
+- *[Esatto / Esattamente]* **“Esatto.” Brenda gli appoggiò la testa** → **“Già.” Brenda gli appoggiò la testa**
+- *[perfetto]* **“Perfetto.” Brenda allungò una mano** → **“Bene.” Brenda allungò una mano**
+
+## Capitolo 5: Il Giorno Dopo l’Apocalisse
+
+- *[sussurrò]* **“Non… posso… muovermi,” sussurrò.** → **“Non… posso… muovermi,” ansimò.**
+- *[Cristo]* **Cristo, questa è poetica.”** → **Mamma mia, questa è poetica.”**
+- *[rise così forte che…]* **Brenda rise così forte che dovette nascondere il viso nel cuscino.** → **Brenda dovette nascondere il viso nel cuscino per soffocare le risate.**
+
+## Capitolo 6: Mondi Paralleli
+
+- *[sussurrò]* **“Cristo santo,” sussurrò.** → **“Cristo santo,” mormorò.**
+- *[orgoglioso/a]* **“Sì,” disse Brenda, orgogliosa.** → **“Sì,” disse Brenda, raggiante.**
+- *[Cristo]* **“Cristo, vi adoro già.”** → **“Oddio, vi adoro già.”**
+- *[sussurrò]* **“Quella più esterna,” sussurrò Oliver,** → **“Quella più esterna,” le soffiò Oliver,**
+- *[Esatto / Esattamente]* **“Esattamente.” Oliver la baciò.** → **“Proprio così.” Oliver la baciò.**
+- *[Esatto / Esattamente]* **“Esattamente. Anche se tecnicamente** → **“Appunto. Anche se tecnicamente**
+
+## Capitolo 7: Rotture, Regali e Ring
+
+- *[perfetto]* **“Perfetto.” Brenda si tolse la maglietta** → **“Allora siamo d’accordo.” Brenda si tolse la maglietta**
+- *[rise così forte che…]* **Brenda rise così forte che dovette nascondere il viso nel collo di Oliver.** → **Brenda affondò il viso nel collo di Oliver, piegata dalle risate.**
+- *[perfetto]* **“Sono perfetti,” sussurrò lei** → **“Sono bellissimi,” sussurrò lei**
+- *[perfetto]* **“I tuoi regali sono perfetti. Pragmatici.** → **“I tuoi regali sono giusti. Pragmatici.**
+- *[sussurrò]* **“Gesù,” sussurrò Oliver a Emma,** → **“Gesù,” bisbigliò Oliver a Emma,**
+- *[rosso come un peperone]* **Oliver divenne rosso come un peperone.** → **Oliver avvampò.**
+- *[perfetto]* **decisero che era il momento perfetto per** → **decisero che era il momento giusto per**
+- *[perfetto]* **è perfetto per lei.** → **è l’ideale per lei.**
+- *[rise così forte che…]* **lei rise così forte che probabilmente la sentirono** → **lei scoppiò a ridere e probabilmente la sentirono**
+- *[perfetto]* **Brenda rise. “Perfetto. Non cambiare mai.”** → **Brenda rise. “Non cambiare mai.”**
+- *[perfetto]* **ma anche incredibilmente, assurdamente perfetto.** → **ma anche incredibilmente, assurdamente bello.**
+
+## Capitolo 8: Linee Attraversate e Cene Perfette
+
+- *[rise così forte che…]* **Sarah rise così forte che sputò un po’ di birra.** → **Sarah si strozzò con la birra dal ridere.**
+- *[Cristo]* **“Cristo, è come cercare di convincere un gatto** → **“Santo cielo, è come cercare di convincere un gatto**
+- *[sussurrò]* **“Grazie,” sussurrò lui.** → **“Grazie,” disse lui, a voce bassissima.**
+- *[perfetto]* **“Suona perfetto.”** → **“Mi piace.”**
+- *[Cristo]* **“Cristo. Questo sembra uscito da un ristorante.”** → **“Madonna. Questo sembra uscito da un ristorante.”**
+- *[orgoglioso/a]* **sentendosi stranamente orgoglioso.** → **sentendosi stranamente fiero di sé.**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Precisamente.”**
+
+## Capitolo 9: Vittoria, Vendetta e Onde Notturne
+
+- *[Esatto / Esattamente]* **“Esatto.” Brenda gli diede un colpetto sul naso.** → **“Giusto.” Brenda gli diede un colpetto sul naso.**
+- *[Cristo]* **“Cristo, sei un genio.”** → **“Dio, sei un genio.”**
+- *[perfetto]* **“Cristo, sì. È stato perfetto.”** → **“Cristo, sì. È stato fantastico.”**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Proprio così.”**
+- *[orgoglioso/a]* **felici e stranamente orgogliosi di quanto fossero arrivati lontano.** → **felici e increduli di quanto fossero arrivati lontano.**
+- *[perfetto]* **anche Brenda dovette ammettere che era perfetto —** → **anche Brenda dovette ammettere che ne era valsa la pena —**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda rise, con gli occhi lucidi.** → **Brenda rise, commossa.**
+- *[Esatto / Esattamente]* **“Esattamente. Esperienza memorabile.”** → **“Appunto. Esperienza memorabile.”**
+- *[Esatto / Esattamente]* **“Esatto. Questo è un piccolo passo.”** → **“Sì. Questo è un piccolo passo.”**
+- *[perfetto]* **Era strano, era perfetto, era completamente** → **Era strano, era giusto, era completamente**
+
+## Capitolo 10: Famiglia, Felini e Paure
+
+- *[Cristo]* **“Lily! Cristo, sei cresciuta!”** → **“Lily! Santo cielo, sei cresciuta!”**
+- *[rise così forte che…]* **Lily rise così forte che sputò il succo che stava bevendo.** → **Lily sputò il succo dal ridere.**
+- *[perfetto]* **guardò i cubi perfetti.** → **guardò i cubi.**
+- *[Esatto / Esattamente]* **“Esatto.”** → **“Già.”**
+- *[si baciarono]* **Si baciarono dolcemente, con Tyson** → **Si scambiarono un bacio lento, con Tyson**
+- *[orgoglioso/a]* **era orgoglioso. Così, così orgoglioso.** → **era fiero di lei. Tanto, tanto fiero.**
+
+## Capitolo 11: Suite, Stelle e Sfide
+
+- *[sussurrò]* **“Cristo santo,” sussurrò Brenda, entrando nella suite.** → **“Cristo santo,” disse Brenda, entrando nella suite.**
+- *[più forti]* **“Perché sei la persona più forte che conosco. E non parlo solo di muscoli.”** → **“Perché non ho mai conosciuto nessuno con il tuo coraggio. E non parlo di muscoli.”**
+- *[orgoglioso/a]* **Oliver era seduto in fondo, orgoglioso e leggermente intimidito.** → **Oliver era seduto in fondo, emozionato e leggermente intimidito.**
+- *[perfetto]* **“Perfetto.” Oliver la baciò.** → **“Grazie.” Oliver la baciò.**
+
+## Capitolo 12: Sangue e Vittoria
+
+- *[perfetto]* **“È perfetto. TU sei perfetto.”** → **“Va benissimo. TU vai benissimo.”**
+- *[sussurrò]* **“Cristo,” sussurrò Emma.** → **“Oddio,” mormorò Emma.**
+- *[perfetto]* **“È perfetto.” Brenda lo baciò sulla fronte. “Come te.”** → **“È bellissimo.” Brenda lo baciò sulla fronte. “Come te.”**
+- *[sussurrò]* **“Cristo,” sussurrò. “Come fai a vedermi così?”** → **“Come fai,” disse piano, “a vedermi così?”**
+
+## Capitolo 13: Strade e Cicatrici
+
+- *[«Soprattutto…» come replica]* **“Soprattutto quando fracassi facce in vicoli.”** → **“Specialmente quando fracassi facce nei vicoli.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Sì.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Certo.”**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda aveva gli occhi lucidi. “E io…** → **Brenda aveva la voce rotta. “E io…**
+- *[perfetto]* **Matrimonio. Casa. Suona perfetto.”** → **Matrimonio. Casa. Mi sembra un buon piano.”**
+- *[si baciarono]* **Si baciarono di nuovo, dolce e lungo, sapore di promesse** → **Un altro bacio, lungo, che sapeva di promesse**
+
+## Capitolo 14: L’Ex
+
+- *[perfetto]* **Lei si allenava, lui scriveva. Semplice. Perfetto.** → **Lei si allenava, lui scriveva. Semplice. Giusto.**
+- *[Esatto / Esattamente]* **“Esattamente quello.” Brenda rispose.** → **“Proprio quello,” rispose Brenda.**
+- *[Cristo]* **“Cristo, sei ancora più muscolosa.** → **“Mamma mia, sei ancora più muscolosa.**
+- *[orgoglioso/a]* **disse Brenda, orgogliosa.** → **disse Brenda, gonfiando il petto.**
+- *[rosso come un peperone]* **Oliver era rosso come un peperone.** → **Oliver era paonazzo.**
+- *[Cristo]* **“Cristo,” disse Brenda, guardandosi attorno,** → **“Dio,” disse Brenda, guardandosi attorno,**
+- *[perfetto]* **“Perfetto. Tu al piano, io alla chitarra,** → **“Ottimo. Tu al piano, io alla chitarra,**
+- *[rise così forte che…]* **David rise così forte che quasi cadde dalla sedia.** → **David quasi cadde dalla sedia dal ridere.**
+- *[Cristo]* **“Cristo,” disse Oliver, “sei tipo…** → **“Accidenti,” disse Oliver, “sei tipo…**
+- *[perfetto]* **“Questo equilibrio perfetto. Lei è forte,** → **“Questo equilibrio. Lei è forte,**
+- *[Esatto / Esattamente]* **“ESATTAMENTE.” David rise.** → **“APPUNTO.” David rise.**
+- *[sussurrò]* **“Ehi,” sussurrò.** → **“Ehi,” disse piano.**
+- *[Esatto / Esattamente]* **“Esatto. E questo è quello che io non potevo fare.** → **“Appunto. E questo è quello che io non potevo fare.**
+- *[perfetto]* **avrebbe trovato qualcuno perfetto per lui.** → **avrebbe trovato qualcuno fatto per lui.**
+
+## Epilogo del Capitolo: Una Settimana Dopo
+
+- *[rise così forte che…]* **che rise così forte che quasi cadde dal tapis roulant.** → **che per poco non cadde dal tapis roulant dal ridere.**
+- *[perfetto]* **era perfetta. Assolutamente, bizzarramente perfetta.** → **era perfetta. Assolutamente, bizzarramente giusta.**
+
+## Capitolo 15: Il Punto di Rottura
+
+- *[Cristo]* **“Cristo, sei duro come un chiodo.** → **“Porca miseria, sei duro come un chiodo.**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Hai capito.”**
+- *[«Soprattutto…» come replica]* **“Soprattutto quando sei rotta.”** → **“Anche di più, quando sei a pezzi.”**
+- *[perfetto]* **“Smettila di dire cose perfette.”** → **“Smettila di dire le cose giuste.”**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda aveva di nuovo gli occhi lucidi.** → **Brenda si commosse di nuovo.**
+
+## Capitolo 16: Verità, Sfide e Conseguenze
+
+- *[Esatto / Esattamente]* **“Esattamente. Tutti a vedermi morire** → **“Appunto. Tutti a vedermi morire**
+- *[sussurrò]* **“Questo finirà male,” sussurrò Oliver a Brenda.** → **“Questo finirà male,” bisbigliò Oliver a Brenda.**
+- *[rosso come un peperone]* **Oliver era rosso come un peperone e Tommy** → **Oliver era color porpora e Tommy**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda lo guardava con gli occhi lucidi.** → **Brenda lo guardava, commossa.**
+- *[sussurrò]* **“Questo è umiliante,” sussurrò.** → **“Questo è umiliante,” borbottò.**
+- *[perfetto]* **“Era perfetto,” disse Brenda baciandolo. “Goffo ma perfetto.”** → **“Era dolcissimo,” disse Brenda baciandolo. “Goffo ma dolcissimo.”**
+- *[Cristo]* **“Cristo, come ce la fai?”** → **“Mamma mia, come ce la fai?”**
+- *[perfetto]* **dolce e calma e perfetta.** → **dolce e calma.**
+- *[Esatto / Esattamente]* **“Esatto.”** → **“Proprio così.”**
+- *[si baciarono]* **Si baciarono, lenti e dolci, sapore di vodka e promesse.** → **Il bacio sapeva di vodka.**
+- *[Cristo]* **“Cristo, sei adorabile.** → **“Dio, sei adorabile.**
+- *[perfetto]* **pieni, pesanti, perfetti —** → **pieni, pesanti —**
+- *[Esatto / Esattamente]* **“Esatto.” Brenda baciò la sua fronte.** → **“Sì.” Brenda baciò la sua fronte.**
+
+## Capitolo 17: Sol Levante
+
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Dove altro dovrei essere?”**
+- *[sussurrò]* **“Cristo,” sussurrò Oliver. “È… wow.”** → **“È…” Oliver cercò le parole. “Wow.”**
+- *[orgoglioso/a]* **mentre Mick sorrideva orgoglioso come un padre.** → **mentre Mick sorrideva come un padre.**
+- *[Come fai sempre a dire la cosa giusta?]* **“Come fai sempre a dire la cosa giusta?”** → **“Perché mi dici una cosa così?”**
+- *[perfetto]* **“Lo so.” Brenda si chinò a baciarlo. “È perfetto.”** → **“Lo so.” Brenda si chinò a baciarlo. “Ed è bellissimo.”**
+- *[perfetto]* **“Ma stasera era perfetto.”** → **“Ma stasera è andata benissimo.”**
+- *[perfetto]* **“Perfetto.” Brenda si rannicchiò più vicina.** → **“Mi piace.” Brenda si rannicchiò più vicina.**
+- *[«Soprattutto…» come replica]* **“Soprattutto quando mi rompi le ossa.”** → **“Specialmente quando mi rompi le ossa.”**
+
+## Epilogo del Capitolo: Mattina a Tokyo
+
+- *[Esatto / Esattamente]* **“Esattamente. Normalissima.”** → **“Già. Normalissima.”**
+
+## Capitolo 18: Flashbulb e Confini
+
+- *[orgoglioso/a]* **Io sarò lì, felice e orgoglioso.”** → **Io sarò lì, felice per te.”**
+- *[perfetto]* **“Perfetto.” Alessandro rise.** → **“Ottimo.” Alessandro rise.**
+- *[perfetto]* **il trucco minimo ma perfetto.** → **il trucco minimo ma curato.**
+- *[sussurrò]* **“Cristo,” sussurrò Oliver.** → **Oliver restò senza fiato.**
+- *[sussurrò]* **“È sempre così?” sussurrò la ginnasta a Oliver.** → **“È sempre così?” chiese piano la ginnasta a Oliver.**
+- *[perfetto]* **“Era perfetto. Ne avevo bisogno quanto te.”** → **“Andava benissimo. Ne avevo bisogno quanto te.”**
+- *[crescita / cresciuto]* **“È crescita.”** → **“È un passo avanti.”**
+- *[rise così forte che…]* **Brenda rise così forte da doversi appoggiare al bancone.** → **Brenda dovette appoggiarsi al bancone per le risate.**
+- *[Come fai sempre a dire la cosa giusta?]* **Brenda lo guardò con gli occhi lucidi. “Come fai sempre a dire la cosa perfetta?”** → **Brenda deglutì. “Dove hai imparato a parlare così?”**
+
+## Capitolo 19: MasterChef e Crolli
+
+- *[perfetto]* **“Perfetto.”** → **“Affare fatto.”**
+- *[sussurrò]* **sussurrò a Sarah. “Precisione chirurgica.”** → **bisbigliò a Sarah. “Precisione chirurgica.”**
+- *[sussurrò]* **“CAZZO,” sussurrò abbassando il fuoco.** → **“CAZZO,” sibilò abbassando il fuoco.**
+- *[orgoglioso/a]* **Lei era orgogliosa, così orgogliosa, esattamente come** → **Lei era fiera di lui, fierissima, proprio come**
+- *[rosso come un peperone]* **li tirò su velocemente, rosso come un peperone.** → **li tirò su velocemente, in fiamme.**
+- *[sussurrò]* **“Cazzo,” sussurrò. “Questo è… è…”** → **“Questo è…” gli mancò il fiato. “È…”**
+- *[Cristo]* **“Cristo. Perché non l’abbiamo fatto prima?”** → **“Dio. Perché non l’abbiamo fatto prima?”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Quando vuoi.”**
+- *[Esatto / Esattamente]* **“Esatto.”** → **“Appunto.”**
+
+## Capitolo 20: Fuoco Italiano
+
+- *[perfetto]* **ogni pugno centrato, ogni mossa perfetta.** → **ogni pugno centrato, ogni mossa pulita.**
+- *[perfetto]* **in modi che erano terrificanti e perfetti —** → **in modi che erano terrificanti e meravigliosi —**
+- *[perfetto]* **“No. È esilarante. E terrificante. E perfetto.”** → **“No. È esilarante. E terrificante. E meraviglioso.”**
+- *[Come fai sempre a dire la cosa giusta?]* **Brenda aveva gli occhi lucidi. “Come fai sempre a dire la cosa giusta?”** → **Brenda si morse il labbro. “Non è giusto che tu sappia sempre cosa dire.”**
+- *[sussurrò]* **“Cristo,” sussurrò. “Sembro uscito** → **“Oddio,” gemette. “Sembro uscito**
+- *[«Soprattutto…» come replica]* **“Soprattutto allora.”** → **“Allora più che mai.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Tutto quello che vuoi.”**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda aveva gli occhi lucidi. “Cazzo, ti amo.”** → **A Brenda tremò la voce. “Cazzo, ti amo.”**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Precisamente.”**
+
+## Capitolo 21: Astinenza e Crescita
+
+- *[orgoglioso/a]* **“Sono così, così orgogliosa di te.”** → **“Non sai quanto sono fiera di te.”**
+- *[Cristo]* **“Cristo, la tua faccia!”** → **“Oddio, la tua faccia!”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Pronto.”**
+- *[Cristo]* **“Cristo,” disse Tommy alla fine,** → **“Accidenti,” disse Tommy alla fine,**
+- *[Esatto / Esattamente]* **“Esatto. Trova qualcuno** → **“Proprio così. Trova qualcuno**
+
+## Epilogo del Capitolo: Giorno Trenta — Il Controllo
+
+- *[più forti]* **un mese più forti e un mese più maturi.** → **un mese più saldi e un mese più maturi.**
+
+## Capitolo 22: Sabbia, Mare e Crescita
+
+- *[perfetto]* **La casa era perfetta — tre piani,** → **La casa era un sogno — tre piani,**
+- *[sussurrò]* **“Wow,” sussurrò Jade a Brenda.** → **“Wow,” bisbigliò Jade a Brenda.**
+- *[orgoglioso/a]* **“Lo so,” disse Brenda, orgogliosa.** → **“Lo so,” disse Brenda, compiaciuta.**
+- *[perfetto]* **con pasta alla carbonara perfetta,** → **con una carbonara da manuale,**
+- *[Cristo]* **“Cristo,” disse Tommy assaggiando.** → **“Madonna,” disse Tommy assaggiando.**
+- *[occhi lucidi / lacrime agli occhi]* **“David…” Brenda aveva gli occhi lucidi.** → **“David…” Brenda si commosse.**
+- *[perfetto]* **il sole caldo e la vita perfetta.** → **il sole caldo e la vita davanti.**
+- *[si baciarono]* **Si baciarono con il sale sulle labbra,** → **Un bacio con il sale sulle labbra,**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Figurati.”**
+- *[Cristo]* **“Cristo,” borbottò Tommy.** → **“Santo cielo,” borbottò Tommy.**
+- *[perfetto]* **“È stato perfetto,” disse Emma.** → **“È stato bellissimo,” disse Emma.**
+- *[perfetto]* **E tutto era stato perfetto.** → **E tutto era andato bene.**
+
+## Capitolo 23: Parole e Mondi
+
+- *[più forti]* **E tu sei più forte di quanto credi.”** → **E tu vali più di quanto credi.”**
+- *[perfetto]* **“Perfetto. Il pubblico è già entusiasta.** → **“Ottimo. Il pubblico è già entusiasta.**
+- *[orgoglioso/a]* **“Anch’io. E sono enormemente orgogliosa di te.”** → **“Anch’io. E sono felicissima per te.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Volentieri.”**
+
+## Epilogo del Capitolo
+
+- *[perfetto]* **il futuro luminoso e il presente perfetto.** → **il futuro luminoso e il presente pieno.**
+
+## Capitolo 24: Voce e Potere
+
+- *[sussurrò]* **“Ok,” sussurrò.** → **“Ok,” disse con un filo di voce.**
+- *[sussurrò]* **“Cazzo,” sussurrò Brenda.** → **“Cazzo,” mormorò Brenda.**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Già.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Dimmi.”**
+- *[Esatto / Esattamente]* **“Esatto.”** → **“Sì.”**
+- *[si baciarono]* **Si baciarono, lenti e dolci stavolta.** → **Stavolta il bacio fu lento.**
+- *[perfetto]* **“Perfetto.” Lo guardò.** → **“Bene.” Lo guardò.**
+
+## Capitolo 25: Quando i Forti Cadono
+
+- *[perfetto]* **Vita normale. Perfetta.** → **Vita normale. Bella.**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda lo guardò con gli occhi lucidi.** → **Brenda lo guardò a lungo.**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Non devi ringraziarmi.”**
+- *[più forti]* **più forti insieme di quanto fossero mai stati separati.** → **più uniti di quanto fossero mai stati.**
+
+## Capitolo 26: Quando il Guerriero Cade
+
+- *[sussurrò]* **“Cristo,” sussurrò Tommy.** → **“Cristo,” disse Tommy a denti stretti.**
+- *[sussurrò]* **“Cazzo,” sussurrò il medico del torneo.** → **“Accidenti,” mormorò il medico del torneo.**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Ci puoi contare.”**
+- *[sussurrò]* **“Cristo,” sussurrò Oliver.** → **Oliver trattenne il fiato.**
+- *[«Soprattutto…» come replica]* **“Soprattutto quando sei debole.** → **“Anche di più quando sei debole.**
+- *[sussurrò]* **“Cazzo,” sussurrò.** → **“Cazzo,” soffiò.**
+- *[Esatto / Esattamente]* **“Esattamente. Quindi: medico,** → **“Appunto. Quindi: medico,**
+- *[Esatto / Esattamente]* **“Esatto.” Mick sembrò approvare. “Esatto.”** → **“Esatto.” Mick sembrò approvare. “Proprio così.”**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Certo.”**
+- *[crescita / cresciuto]* **Sei cresciuto, Oliver.”** → **Sei maturato, Oliver.”**
+
+## Epilogo del Capitolo: Due Settimane Dopo
+
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Proprio così.”**
+- *[più forti]* **uscendone più forti.** → **uscendone interi.**
+- *[si baciarono]* **Si baciarono, dolci e lunghi.** → **Lui la strinse e la baciò.**
+
+## Capitolo 27: Esposizione ed Evoluzione
+
+- *[perfetto]* **“Vedi?” Yara rideva. “Perfetto.”** → **“Vedi?” Yara rideva. “Bravissimo.”**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Già.”**
+- *[perfetto]* **“È perfetto. Ogni famiglia** → **“È giusto. Ogni famiglia**
+- *[perfetto]* **“Davvero. Era perfetto. Eravamo noi.”** → **“Davvero. Era speciale. Eravamo noi.”**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda aveva le lacrime agli occhi. “Come fai sempre a farmi sentire meglio?”** → **Brenda tirò su col naso. “Come fai a farmi sentire meglio ogni volta?”**
+- *[occhi lucidi / lacrime agli occhi]* **Brenda aveva le lacrime agli occhi. “Davvero?”** → **Brenda sbatté le palpebre. “Davvero?”**
+
+## Epilogo del Capitolo: Un Mese Dopo
+
+- *[più forti]* **E Brenda e Oliver erano più forti.** → **E Brenda e Oliver erano ancora lì, insieme.**
+- *[si baciarono]* **Si baciarono, dolci e lunghi.** → **Lei lo baciò, a lungo.**
+- *[più forti]* **messi alla prova, sopravvissuti, più forti.** → **messi alla prova, sopravvissuti.**
+
+## Capitolo 28: La Caduta
+
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Ogni volta che ne hai bisogno.”**
+
+## Capitolo 29: Al Bivio
+
+- *[crescita / cresciuto]* **“È crescita,” disse David.** → **“Stai cambiando,” disse David.**
+- *[sussurrò]* **“Cosa?” sussurrò Brenda.** → **“Cosa?” disse Brenda, piano.**
+- *[perfetto]* **è il pretesto perfetto.”** → **è il pretesto ideale.”**
+- *[si baciarono]* **Si baciarono, profondi e lunghi.** → **Il bacio durò a lungo.**
+- *[crescita / cresciuto]* **“Sei cresciuto molto. Continua.** → **“Hai fatto passi enormi. Continua.**
+
+## Epilogo del Capitolo: L’Aeroporto
+
+- *[sussurrò]* **“Sei mesi,” sussurrò.** → **“Sei mesi,” ripeté piano.**
+
+## Capitolo 30: La Città degli Angeli
+
+- *[Cristo]* **“Cristo,” disse Brenda uscendo dall’aeroporto.** → **“Dio,” disse Brenda uscendo dall’aeroporto.**
+- *[orgoglioso/a]* **Marcus sembrava orgoglioso.** → **Marcus sembrava soddisfatto.**
+
+## Capitolo 31: Evoluzione
+
+- *[perfetto]* **difesa perfetta, attacco controllato.** → **difesa impeccabile, attacco controllato.**
+- *[perfetto]* **“Perfetto. Gennaio cominciamo.** → **“Bene. Gennaio cominciamo.**
+- *[orgoglioso/a]* **“Lo so! Sono così orgogliosa!”** → **“Lo so! Sono al settimo cielo!”**
+- *[orgoglioso/a]* **“E sono orgogliosa.”** → **“E ne sono felice.”**
+- *[Esatto / Esattamente]* **“Esattamente.”** → **“Appunto.”**
+- *[si baciarono]* **Si baciarono, dolci e lunghi, con Los Angeles** → **Si baciarono con Los Angeles**
+
+## Epilogo del Capitolo: Due Mesi alla Fine
+
+- *[si baciarono]* **Si baciarono, sapore di vino e verità.** → **Il bacio sapeva di vino e di verità.**
+- *[più forti]* **Ma erano pronti — più forti, più saggi, più completi.** → **Ma erano pronti — più saggi, più completi.**
+- *[crescita / cresciuto]* **ancora sfide, ancora crescita.** → **ancora sfide, ancora cambiamenti.**
+- *[perfetto]* **La combinazione perfetta.** → **La combinazione giusta.**
+
+## Capitolo 32: Ritorno a Casa
+
+- *[crescita / cresciuto]* **Tu sei cresciuto così tanto qui.** → **Tu qui sei rinato.**
+- *[sussurrò]* **“Cazzo,” sussurrò Oliver guardando i numeri.** → **“Accidenti,” disse Oliver guardando i numeri.**
+- *[orgoglioso/a]* **Marcus sembrava orgoglioso.** → **Marcus sembrava compiaciuto.**
+- *[sussurrò]* **“Addio Los Angeles,” sussurrò Brenda.** → **“Addio Los Angeles,” disse Brenda.**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Dimmi.”**
+- *[più forti]* **“Sei diversa. Più forte.”** → **“Sei diversa. Più solida.”**
+
+## Capitolo 33: Separati ma Insieme
+
+- *[crescita / cresciuto]* **Abbiamo gestito una crescita pazzesca.** → **Abbiamo gestito cambiamenti pazzeschi.**
+- *[perfetto]* **Questo equilibrio perfetto che abbiamo trovato.** → **Questo equilibrio che abbiamo trovato.**
+- *[sussurrò]* **“Buon anno,” sussurrò Brenda.** → **“Buon anno,” mormorò Brenda.**
+- *[sussurrò]* **“Cazzo,” sussurrò Brenda vedendola.** → **“Oddio,” disse Brenda vedendola.**
+- *[più forti]* **Maria ti ha ricostruita. Sei più forte.”** → **Maria ti ha ricostruita. Sei un’altra.”**
+- *[orgoglioso/a]* **sono così fottutamente orgoglioso. Così orgoglioso.”** → **sono così fottutamente fiero di te. Così fiero.”**
+- *[perfetto]* **Abbraccio. Bacio. Lungo, pubblico, perfetto.** → **Abbraccio. Bacio. Lungo, pubblico, senza vergogna.**
+
+## Capitolo 34: Caos e Coccole
+
+- *[Cristo]* **“Cristo, no. Non ancora.** → **“Dio, no. Non ancora.**
+- *[sussurrò]* **“È straziante,” sussurrò Oliver.** → **“È straziante,” disse Oliver.**
+- *[sussurrò]* **“Merda,” sussurrò Brenda.** → **“Merda,” mormorò Brenda.**
+- *[perfetto]* **costoso, comodo, perfetto.** → **costoso, comodo, nuovissimo.**
+- *[occhi lucidi / lacrime agli occhi]* **disse lei con gli occhi lucidi.** → **disse lei, commossa.**
+- *[Esatto / Esattamente]* **“Sì. Esatto.” Brenda baciò** → **“Sì. Proprio così.” Brenda baciò**
+- *[si baciarono]* **Si baciarono sopra Rocky che dormiva.** → **Si diedero un bacio sopra Rocky che dormiva.**
+- *[sussurrò]* **“Perfetto,” sussurrò Oliver.** → **“È lui,” disse piano Oliver.**
+
+## Capitolo 35: Avventure all’Estero
+
+- *[Esatto / Esattamente]* **“Esatto. Quindi propongo un viaggio.** → **“Appunto. Quindi propongo un viaggio.**
+- *[sussurrò]* **“Wow,” sussurrò Oliver.** → **“Wow,” fece Oliver.**
+- *[perfetto]* **diciotto gradi, sole, perfetto.** → **diciotto gradi, sole, aria di primavera.**
+- *[perfetto]* **Perfetto — spazio aperto,** → **Ideale — spazio aperto,**
+- *[Esatto / Esattamente]* **“Esattamente come noi.”** → **“Proprio come noi.”**
+
+## Capitolo 36: La Tempesta di Aprile
+
+- *[Esatto / Esattamente]* **“Esatto.” Oliver tirò il guinzaglio** → **“Già.” Oliver tirò il guinzaglio**
+- *[«Sempre.» come risposta]* **“Sempre.”** → **“Certo.”**
+
+## Capitolo 40: Il Round Finale
+
+- *[Cristo]* **“Cristo,” disse Tommy accanto a lui.** → **“Accidenti,” disse Tommy accanto a lui.**
