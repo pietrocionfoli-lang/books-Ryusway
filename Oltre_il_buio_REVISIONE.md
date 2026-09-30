@@ -3,12 +3,12 @@
 **File consegnati**
 - `Oltre_il_buio_revisionato.pdf`: interno pronto, font incorporati.
 - `Oltre_il_buio_revisionato.odt`: versione modificabile. Riconvertito in PDF dà lo stesso identico PDF (controllato pagina per pagina: 0 differenze).
-- `Oltre_il_buio_correzioni.md`: tutti i 192 interventi, capitolo per capitolo, con il prima → dopo.
+- `Oltre_il_buio_correzioni.md`: tutti i 261 interventi, capitolo per capitolo, con il prima → dopo.
 
 Il PDF originale (`Oltre il buio.pdf`) non è stato toccato.
 
 **Formato: 5×8" come l'originale** (l'originale di questo libro non è 6×9: non l'ho cambiato).
-**Numero di pagine: 162 → 193.**
+**Numero di pagine: 162 → 192.**
 
 ---
 
@@ -23,7 +23,7 @@ Ho tenuto la struttura dell'originale:
 
 Il resto dell'impaginazione:
 - EB Garamond 11 pt, giustificato, con sillabazione italiana;
-- ogni capitolo su pagina nuova, con "CAPITOLO N" e il titolo;
+- ogni capitolo su pagina nuova, con "CAPITOLO N" e il titolo (solo la prima parola maiuscola: "Il giorno in cui tutto si spense");
 - titoletti di data e luogo ("Giorno 7 — L'Orrore", "Ottobre 2027 — …") in grassetto piccolo, sempre legati al paragrafo che segue: nessuno resta isolato in fondo pagina;
 - separatori di scena (* * *) al posto delle righe grigie dell'originale. Dove c'era sia la riga sia il titoletto, resta solo il titoletto.
 
@@ -31,7 +31,7 @@ Cosa ho sistemato rispetto all'originale:
 - **Corpo del testo.** Era a 7,7 pt, con pezzi in Georgia (pp. 98–104), Liberation Serif e Calibri. Ora è tutto uniforme.
 - **Sommario.** L'originale aveva i capitoli 15 e 16 fuori ordine, in fondo alla pagina 3. Ora è rigenerato automaticamente e ogni voce apre la pagina giusta.
 - **Paragrafi fusi.** Nelle pp. 98–104 dell'originale mancava lo spazio tra i paragrafi e intere scene erano diventate un blocco unico. Ho ricostruito i paragrafi e separato le battute.
-- **Voce adulta.** I passaggi "[Voce adulta]:" erano in due stili diversi (etichetta in grassetto più testo tondo nei primi capitoli, tutto corsivo dopo). Ora sono tutti in corsivo.
+- **Voce adulta.** I passaggi "[Voce adulta]:" erano in due stili diversi (etichetta in grassetto più testo tondo nei primi capitoli, tutto corsivo dopo). Come deciso, l'etichetta è tolta in tutti i 114 punti: ora quei passaggi sono solo in corsivo.
 - **Orari all'americana.** "6:47 AM", "2:00 PM" sono diventati "6:47", "14:00".
 - **Tipografia.** Virgolette tipografiche, apostrofi ’, "…" al posto di "...".
 - **Emoji.** Le didascalie Instagram del cap. 1 avevano emoji che nel PDF erano diventate "�": le ho tolte.
@@ -128,33 +128,37 @@ Ho isolato l'ultima frase di tutti i 30 capitoli.
 
 Ho lasciato «È abbastanza», perché è il motto di Claudia ripreso nel finale.
 
-## 6. Tic stilistici: SEGNALATI, non corretti
-| Tic | Occorrenze |
-|---|---|
-| "[Voce adulta]:" come etichetta | 114 |
-| "vecchio mondo / nuovo mondo" | 51 |
-| "Una pausa." / "Pausa." | 30 |
-| "Non lo so / non lo sapevo" | 29 |
-| "Aveva ragione." | 27 |
-| "Silenzio." | 25 |
-| frasi a raffica di una parola ("Morto. Vero. Reale.") | 21+ |
-| "Come sempre." | 17 |
-| "Non serviva (altro)." | 6 |
+## 6. Tic stilistici: CORRETTI
+Riscritti variando la frase o togliendola dove era solo riempitivo. Ho lasciato le occorrenze che reggono la scena (battute di dialogo, riprese volute).
 
-## 7. Da decidere tu (non ho toccato)
-1. **L'etichetta "[Voce adulta]:"** tra parentesi quadre, 114 volte, sembra un'indicazione di lavorazione più che una scelta tipografica. Adesso quei passaggi sono tutti in corsivo: si potrebbe togliere l'etichetta e lasciare che il corsivo basti. Lo faccio se vuoi.
-2. **Felix in battaglia a dodici anni.** Con le età corrette, nella ricognizione, nel raid alle scorte e nella freccia a Kast (capp. 13–14) ha dodici anni, non quattordici. Se lo vuoi più grande, va cambiata l'età iniziale ("otto anni" nel 2026, citata più volte).
-3. **Dieter Müller.** Ha lo stesso cognome della famiglia Müller trovata morta alla fattoria, di cui lui stesso legge il nome sulla cassetta delle lettere. Coincidenza voluta?
-4. **Lena e Matteo.** Si mettono insieme quando lei ha diciannove anni e lui trentuno (prima erano "diciotto e trentanove"). Il testo commenta la differenza d'età; te lo segnalo solo.
-5. **Titoli dei capitoli.** Ho usato quelli del tuo sommario, con le iniziali maiuscole ("Il Giorno In Cui Tutto Si Spense"). In italiano di solito si scrive solo la prima parola maiuscola ("Il giorno in cui tutto si spense"): lo cambio se vuoi.
+| Tic | Prima | Dopo |
+|---|---|---|
+| "[Voce adulta]:" come etichetta | 114 | 0 |
+| "vecchio mondo / nuovo mondo" | 51 | 24 |
+| "Una pausa." / "Pausa." | 30 | 14 |
+| "Aveva ragione." | 27 | 14 |
+| "Silenzio." | 25 | 18 |
+| "Come sempre." | 17 | 12 |
+| "Non serviva (altro)." | 6 | 3 |
+
+Lasciati come sono:
+- **"Non lo so / non lo sapevo"** (29): quasi sempre è dialogo, cioè come parlano i personaggi davanti all'incertezza. Toglierlo cambierebbe le battute.
+- **Frasi a raffica di una parola** ("Morto. Vero. Reale."): è il ritmo della voce narrante nei momenti di shock, una scelta tua, non un tic.
+
+## 7. Decisioni (risolte)
+1. **Etichetta "[Voce adulta]:"** → tolta ovunque, resta il corsivo.
+2. **Felix a dodici anni** nei capp. 13–14 → va bene così, lasciato.
+3. **Dieter Müller** → lasciato com'è.
+4. **Lena e Matteo** (diciannove e trentuno anni quando si mettono insieme) → solo segnalato, non toccato.
+5. **Titoli dei capitoli** → ora hanno solo la prima parola maiuscola ("L'ultimo giorno normale", "I Lupi dell'Est"), nel sommario e nelle intestazioni.
 
 ## 8. Controlli sul PDF finale
 - ✅ 30 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→30.
-- ✅ Numero di pagina su tutte le 193 pagine, ognuno corretto.
+- ✅ Numero di pagina su tutte le 192 pagine, ognuno corretto.
 - ✅ Nessun titolo, titoletto o separatore di scena isolato in fondo pagina.
 - ✅ Nessun capitolo che finisce con una pagina di 1–3 righe.
 - ✅ Confronto parola per parola tra testo corretto e PDF: nessuna perdita.
 - ✅ Nessun carattere strano: gli emoji "�" sono stati tolti.
 - ✅ Tre font (EB Garamond regolare, corsivo, grassetto), tutti incorporati.
 - ✅ Nessun residuo delle correzioni.
-- ✅ ODT riconvertito → PDF identico (193 pagine, 0 differenze).
+- ✅ ODT riconvertito → PDF identico (192 pagine, 0 differenze).
