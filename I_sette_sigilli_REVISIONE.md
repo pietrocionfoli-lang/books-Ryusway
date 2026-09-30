@@ -3,20 +3,15 @@
 **File consegnati**
 - `I_sette_sigilli_revisionato.pdf`: interno pronto per KDP (6×9", font incorporati)
 - `I_sette_sigilli_revisionato.odt`: versione modificabile (font incorporati). Esportato di nuovo in PDF, dà lo stesso identico PDF (verificato pagina per pagina).
-- `I_sette_sigilli_correzioni.md`: tutte le 160 correzioni, capitolo per capitolo, con il prima → dopo.
+- `I_sette_sigilli_correzioni.md`: tutte le 160 correzioni capitolo per capitolo, con il prima → dopo, e in fondo gli 867 interventi sui tic stilistici.
 
 Il PDF originale (`I_sette_sigilli_definitivo.pdf`) non è stato toccato.
 
 ---
 
-## Numero di pagine: 400 → 370
+## Numero di pagine: 400 → 360
 
-Va rifatto il **dorso della copertina KDP**.
-Spessore del dorso calcolato con i coefficienti KDP:
-- carta bianca: 370 × 0,002252" = **0,83" ≈ 2,12 cm** (prima era 2,29 cm)
-- carta crema: 370 × 0,0025" = **0,93" ≈ 2,35 cm** (prima era 2,54 cm)
-
-
+(370 nella prima consegna; la correzione dei tic ha tolto altre 10 pagine.)
 
 ---
 
@@ -86,23 +81,28 @@ Le più importanti:
 | 46 | Andò a trovare gli altri. | identico alla chiusura del cap. 49, e in contraddizione con l'inizio del cap. 47 |
 | Epilogo | …ma si sa abbastanza. / Si sa abbastanza per tornare. | **ultima riga del libro con doppio "abbastanza"**, ora chiude su «A casa.» (riprende «E io torno a casa» del cap. 49) |
 
-## 6. Tic stilistici: SEGNALATI, non corretti
-Sono diffusi in tutto il libro. Li correggo se me lo chiedi.
+## 6. Tic stilistici: CORRETTI
+Riscritti uno per uno, variando la frase o togliendola dove era solo riempitivo. Ho lasciato le occorrenze che hanno un senso proprio o che sono riprese volute. L'elenco completo, prima → dopo, è in fondo al file delle correzioni.
 
-| Tic | Occorrenze |
-|---|---|
-| **"qualità"** (quasi sempre "quella (sua) qualità di…") | **619** (423 nella forma "quella qualità di") |
-| "abbastanza" (spesso come risposta secca: «Abbastanza.») | 112 |
-| "X rimase in silenzio per un (lungo) momento" | 98 |
-| "Pausa." centrato / "pausa di dodici secondi" (il ritmo di Pedro) | 265 / 24 |
-| "quattrocentosettantadue" | 29 |
-| "occhi ambra" / "punti di brace" | 34 / 45 |
-| "una volta sola, precisa" | 17 |
-| "Mike aprì la bocca. La richiuse." | 10 |
-| "quella qualità organica" | 11 |
-| "senza la risposta automatica" | 7 |
+| Tic | Prima | Dopo |
+|---|---|---|
+| **"qualità"** | 619 | 38 |
+| di cui "quella (sua) qualità di…" | 447 | 2 |
+| "X rimase in silenzio per un (lungo) momento" | 114 | 39 |
+| "Pausa." / "Una pausa." tra due battute | 189 | 64 |
+| "abbastanza" | 131 | 100 |
+| "quattrocentosettantadue" | 42 | 23 |
+| "punti di brace" (gli occhi di Pedro) | 45 | 30 |
+| "occhi ambra" (Rodrigo) | 34 | 16 |
+| "quella qualità organica" | 11 | 0 |
+| "una volta sola, precisa" | 11 | 3 |
+| "X aprì la bocca. La richiuse." | 10 | 4 |
+| "senza la risposta automatica" | 8 | 2 |
 
-"Qualità" è il più grave: in media compare quasi 2 volte a pagina. Anche il gesto "la pausa più lunga mai sentita" (20 secondi) è dichiarato "il più lungo" più volte.
+Cosa ho lasciato e perché:
+- **Le pause centrate di Pedro** ("Pausa.", "Pausa lunghissima.", "Pausa di dodici secondi."): 99 righe centrate. Sono il modo in cui parla il golem, un espediente grafico voluto. Ho tolto invece le "Pausa." infilate tra due battute degli altri personaggi: lì la battuta ora è unica.
+- **"Abbastanza"**: ho riscritto le chiuse secche («Fu abbastanza.» → «Bastò.», «Era più che abbastanza.» → «Bastava e avanzava.»), le risposte a una parola ripetute e le formule fisse ("non abbastanza da chiamarsi sorriso", "abbastanza vicini da parlare sottovoce, abbastanza lontani da non invadere"). Restano l'uso normale della parola e il tema "essere abbastanza" di Ian e Kael, che è il cuore del confronto al Muro, e il ritornello «È abbastanza?» dopo ogni Distruttore.
+- **"Quattrocentosettantadue"**: resta nei dialoghi e nel titolo del cap. 7; nella narrazione ora è anche "quasi cinque secoli", "i suoi secoli".
 
 ## 7. Da decidere tu (non ho toccato)
 1. **Punto di vista**: i capp. 1–6 sono in prima persona (Ian), dal cap. 7 il libro passa alla terza persona. Può essere una scelta, ma nessun segnale la accompagna.
@@ -115,9 +115,9 @@ Sono diffusi in tutto il libro. Li correggo se me lo chiedi.
 
 ## 8. Controlli sul PDF finale
 - ✅ 50 voci del sommario, ognuna apre la pagina giusta; capitoli in ordine 1→49 + Epilogo
-- ✅ numero di pagina su tutte le 370 pagine (aggiunto anche a pagine bianche, frontespizio e sommario), ognuno corretto
-- ✅ nessun titolo, frase introduttiva del quaderno ("Scrisse:") o riga isolata in fondo pagina; nessun capitolo che finisce con una pagina di 1–3 righe
+- ✅ numero di pagina su tutte le 360 pagine (aggiunto anche a pagine bianche, frontespizio e sommario), ognuno corretto
+- ✅ nessun titolo, frase introduttiva del quaderno ("Scrisse:") o riga isolata in fondo pagina; nessun capitolo che finisce con una pagina di 1–3 righe (per cinque capitoli, 12, 15, 21, 30 e 48, ho stretto leggermente la spaziatura delle lettere, invisibile a occhio)
 - ✅ confronto parola per parola tra testo corretto e PDF: nessuna perdita
 - ✅ nessun carattere strano o simbolo mancante; 2 soli font (EB Garamond regolare e corsivo), entrambi incorporati
 - ✅ nessun residuo degli errori corretti
-- ✅ ODT riconvertito → PDF identico (370 pagine, 0 differenze)
+- ✅ ODT riconvertito → PDF identico (360 pagine, 0 differenze)
